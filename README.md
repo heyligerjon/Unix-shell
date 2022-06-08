@@ -2,12 +2,19 @@
 A homemade unix shell project that supports background/foreground job control, pipelining, and IO redirection
 
 
-#Instructions
+##Instructions
 
-To clean code (i.e., remove any compiled files), type: $ make clean
+To clean code (i.e., remove any compiled files): 
+
+$ make clean
 
 
-To compile and link type: $ make
+To compile and link: 
+
+$ make
 
 
-To run the program (after compile), type: $ ./Jsh
+To run the program (after compile): 
+
+$ ./Jsh
+
