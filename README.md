@@ -1,20 +1,21 @@
 # Unix-shell
-A homemade unix shell project that supports background/foreground job control, pipelining, and IO redirection
+  A homemade unix shell project that supports background/foreground job control, pipelining, and IO redirection
+
+@author - Jon Heyliger, Tanner McClure
+
+## Instructions
+
+  To clean code (i.e., remove any compiled files): 
+
+    $ make clean
 
 
-##Instructions
+  To compile and link: 
 
-To clean code (i.e., remove any compiled files): 
-
-$ make clean
+    $ make
 
 
-To compile and link: 
+  To run the program (after compile): 
 
-$ make
-
-
-To run the program (after compile): 
-
-$ ./Jsh
+    $ ./Jsh
 
