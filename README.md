@@ -2,7 +2,7 @@
 A homemade unix shell project that supports background/foreground job control, pipelining, and IO redirection
 
 
-##Instructions
+#Instructions
 
 To clean code (i.e., remove any compiled files), type: $ make clean
 
